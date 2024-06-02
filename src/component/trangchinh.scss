@@ -29,7 +29,7 @@
   //margin: auto;
   padding-bottom: 30px;
   padding-top: 30px;
-  
+  order: 2;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -41,7 +41,7 @@
  // border:solid white 3px;
  // border-radius: 20px ;
   .column15{
-    height: 510px;
+    height: 310px;
 
   .anhphim {
     border: 2px solid rgb(97, 79, 79);
@@ -49,7 +49,7 @@
     background-color: rgb(40, 35, 35);
     width: 300px;
     padding: 10px;
-    height: 450px;
+    height: 250px;
     display: flex;
    // grid-template-rows: 50% 25% 25%;
     z-index: 1;
@@ -101,6 +101,7 @@
   
   width: 300px;
   list-style-type: none;
+  margin-left: 30px;
   font-size: 25px;
   margin-top: 90px;
   display: flex;

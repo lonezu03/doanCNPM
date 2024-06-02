@@ -49,7 +49,6 @@ const Trangchinh = () => {
     <div className="trangchu">
       {<Menu />}
       
-      {<Phimnoibat />}
       <div className="tim">
       <form role="search" id="form">
             <input
@@ -174,7 +173,6 @@ const Trangchinh = () => {
           </ul>
         </div>
       </div>
-      <Footer />
     </div>
   );
 };
